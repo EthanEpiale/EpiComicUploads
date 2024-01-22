@@ -4,5 +4,16 @@
   "artist": "Epiale",
   "author": "Epiale",
   "cover": "https://imgur.com/fWGT1ZB",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Audition",
+      "volume": "",
+      "last_updated": "1705966005",
+      "groups": {
+        "": [
+          "https://imgur.com/a/9aLck0V"
+        ]
+      }
+    }
+  }
 }
