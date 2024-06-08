@@ -5,7 +5,7 @@
   "author": "Epiale",
   "cover": "https://i.imgur.com/fWGT1ZB.png",
   "chapters": {
-    "1": {
+    "0": {
       "title": "Audition",
       "volume": "",
       "last_updated": "1705966005",
@@ -39,6 +39,54 @@
           "https://i.imgur.com/dyJmgFk.png",
           "https://i.imgur.com/TxsQWyh.png",
           "https://i.imgur.com/bvdTiVS.png"
+        ]
+      }
+    },
+    "1": {
+      "title": "Round 1",
+      "volume": "",
+      "last_updated": "000",
+      "groups": {
+        "": [
+          "https://i.imgur.com/ppaAjYo.png",
+          "https://i.imgur.com/HKbdLw7.png",
+          "https://i.imgur.com/7fovjqe.png",
+          "https://i.imgur.com/C7pdRI2.png",
+          "https://i.imgur.com/Hmj9Hqo.png",
+          "https://i.imgur.com/lAHqkdu.png",
+          "https://i.imgur.com/8ct5o38.png",
+          "https://i.imgur.com/IMomhO8.png",
+          "https://i.imgur.com/9JN66yv.png",
+          "https://i.imgur.com/H4n6UFW.png",
+          "https://i.imgur.com/JJ6sh7g.png",
+          "https://i.imgur.com/69iSFzw.png",
+          "https://i.imgur.com/ivGzTCG.png",
+          "https://i.imgur.com/D68XRG6.png",
+          "https://i.imgur.com/s4iktT4.png",
+          "https://i.imgur.com/jtJEnXi.png",
+          "https://i.imgur.com/2yJ5hBA.png",
+          "https://i.imgur.com/zv8CQnR.png",
+          "https://i.imgur.com/iZ5Vo2m.png",
+          "https://i.imgur.com/gvd85Ar.png",
+          "https://i.imgur.com/87G9MCq.png",
+          "https://i.imgur.com/uILXXXL.png",
+          "https://i.imgur.com/K8SaoW0.png",
+          "https://i.imgur.com/ttERVpl.png",
+          "https://i.imgur.com/y4t7j7s.png",         
+          "https://i.imgur.com/TwxZ0J9.png",
+          "https://i.imgur.com/iuZgX9d.png",
+          "https://i.imgur.com/psyYhRj.png",
+          "https://i.imgur.com/J4Pt7xA.png",
+          "https://i.imgur.com/IcP9q5U.png",
+          "https://i.imgur.com/Hz5xsdX.png",
+          "https://i.imgur.com/vnMkdrz.png",         
+          "https://i.imgur.com/AaMdA8b.png",
+          "https://i.imgur.com/ptGbmdI.png",
+          "https://i.imgur.com/79bKJqV.png",
+          "https://i.imgur.com/OWR7i65.png",
+          "https://i.imgur.com/fV5F6Hc.png",
+          "https://i.imgur.com/XxRPX1a.png",         
+          "https://i.imgur.com/XCGlBIv.png"
         ]
       }
     }
